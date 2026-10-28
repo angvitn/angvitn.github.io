@@ -124,15 +124,15 @@ const galleryData = {
         '微信图片_20261028144820_335_2.jpg',
         '微信图片_20261028144821_336_2.jpg',
         '微信图片_20261028144822_337_2.jpg',
-        '1.jpg','static/2.jpg','static/3.jpg','static/4.jpg','static/5.jpg','static/6.jpg','static/7.jpg'
+        '1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg'
     ],
     travel: [
-        '11.jpg','static/12.jpg','static/13.jpg','static/14.jpg','static/15.jpg','static/16.jpg','static/17.jpg'
+        '11.jpg','12.jpg','13.jpg','14.jpg','15.jpg','16.jpg','17.jpg'
     ],
     comic: [
         '18025458887413120.png',
         '【哲风壁纸】书呆子计划-书桌.jpg',
-        '21.jpg','static/22.jpg'
+        '21.jpg','22.jpg'
     ],
     game: [
         '722.横版-1125x2436_d2ff15fe586c479c97771da7c27bb103.jpg',
